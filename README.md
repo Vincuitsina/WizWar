@@ -9,7 +9,7 @@ where you use a combination of spells
 to defeat a single enemy wizard in a roman
 colosseum style arena surrounded by lava.
 
-# ============ Asset Credit ============
+# ============= Asset Credit =============
 ## Spell Icons: 
 - <https://opengameart.org/content/painterly-spell-icons-part-1>
 - <https://opengameart.org/content/painterly-spell-icons-part-2>
