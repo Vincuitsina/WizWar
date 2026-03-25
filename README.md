@@ -1,4 +1,3 @@
-# WizWar
 # ==== Group Members ====
 Jason Floyd
 
